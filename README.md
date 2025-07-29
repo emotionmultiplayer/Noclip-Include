@@ -51,7 +51,7 @@ public OnPlayerUpdate(playerid)
 }
 ```
 
-### 3. Example Command (ZCMD)
+### 3. Example Command (Pawn.CMD)
 
 ```pawn
 COMMAND:noclip(playerid)
